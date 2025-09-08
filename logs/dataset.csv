@@ -1,0 +1,9 @@
+timestamp,action,file_extension,process,parent_process,label
+Thu May 29 11:45:20 2025,Created,.txt,cmd.exe,cmd.exe,0
+Thu May 29 11:59:19 2025,Modified,.txt,unknown process,unknown parent,1
+Thu May 29 11:59:49 2025,Created,.txt,unknown process,unknown parent,1
+Thu May 29 12:00:04 2025,Deleted,.txt,code.exe,code.exe,0
+Thu May 29 12:00:15 2025,Created,.txt,code.exe,code.exe,0
+Thu May 29 12:00:30 2025,Modified,.txt,powershell.exe,powershell.exe,0
+Thu May 29 12:04:19 2025,Created,.txt,powershell.exe,powershell.exe,0
+Thu May 29 12:04:29 2025,Modified,.txt,powershell.exe,powershell.exe,0

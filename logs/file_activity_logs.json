@@ -1,0 +1,274 @@
+[
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\cmd12.txt",
+        "timestamp": "Thu May 29 11:45:20 2025",
+        "process": "cmd.exe",
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "parent_process": "cmd.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\ajdshyajsfsg.txt",
+        "timestamp": "Thu May 29 11:59:19 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\now.txt",
+        "timestamp": "Thu May 29 11:59:49 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\now.txt",
+        "timestamp": "Thu May 29 12:00:04 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\now.txt",
+        "timestamp": "Thu May 29 12:00:15 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\now.txt",
+        "timestamp": "Thu May 29 12:00:30 2025",
+        "process": "powershell.exe",
+        "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "parent_process": "powershell.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\powershell56.txt",
+        "timestamp": "Thu May 29 12:04:19 2025",
+        "process": "powershell.exe",
+        "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "parent_process": "powershell.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\powershell56.txt",
+        "timestamp": "Thu May 29 12:04:29 2025",
+        "process": "powershell.exe",
+        "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "parent_process": "powershell.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo12.txt",
+        "timestamp": "Thu May 29 12:24:38 2025",
+        "process": "cmd.exe",
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "parent_process": "cmd.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo12.txt",
+        "timestamp": "Thu May 29 12:24:52 2025",
+        "process": "cmd.exe",
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "parent_process": "cmd.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\powershell56.txt",
+        "timestamp": "Thu May 29 12:29:02 2025",
+        "process": "powershell.exe",
+        "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "parent_process": "powershell.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\htvf.txt",
+        "timestamp": "Thu May 29 12:31:06 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\htvf.txt",
+        "timestamp": "Thu May 29 12:31:22 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\htvf.txt",
+        "timestamp": "Thu May 29 12:41:03 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\ash.txt",
+        "timestamp": "Thu May 29 12:58:43 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\ash.txt",
+        "timestamp": "Thu May 29 12:58:52 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\ash.txt",
+        "timestamp": "Thu May 29 12:59:01 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\ash.txt",
+        "timestamp": "Thu May 29 12:59:10 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\57.txt",
+        "timestamp": "Thu May 29 12:59:27 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\57.txt",
+        "timestamp": "Thu May 29 12:59:37 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo13.txt",
+        "timestamp": "Thu May 29 13:01:22 2025",
+        "process": "cmd.exe",
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "parent_process": "cmd.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo13.txt",
+        "timestamp": "Thu May 29 13:01:31 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo13.txt",
+        "timestamp": "Thu May 29 13:03:23 2025",
+        "process": "cmd.exe",
+        "path": "C:\\WINDOWS\\System32\\cmd.exe",
+        "parent_process": "cmd.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\powershell56.txt",
+        "timestamp": "Thu May 29 13:06:47 2025",
+        "process": "powershell.exe",
+        "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "parent_process": "powershell.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo123.txt",
+        "timestamp": "Thu May 29 13:07:46 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo123.txt",
+        "timestamp": "Thu May 29 13:07:57 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo123.txt",
+        "timestamp": "Thu May 29 13:08:07 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demo123.txt",
+        "timestamp": "Thu May 29 13:08:17 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\new1.txt",
+        "timestamp": "Thu May 29 15:02:02 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\new1.txt",
+        "timestamp": "Thu May 29 15:02:10 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demoo.txt",
+        "timestamp": "Thu May 29 15:03:33 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Deleted",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demoo.txt",
+        "timestamp": "Thu May 29 15:03:55 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Created",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demoo.txt",
+        "timestamp": "Thu May 29 15:04:16 2025",
+        "process": "Unknown Process",
+        "path": "Unknown Path",
+        "parent_process": "Unknown Parent"
+    },
+    {
+        "action": "Modified",
+        "file": "C:\\Users\\HP\\OneDrive\\Desktop\\Final_year_project\\ransomware_detection\\honeypot\\demoo.txt",
+        "timestamp": "Thu May 29 15:04:36 2025",
+        "process": "Code.exe",
+        "path": "C:\\Users\\raman\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "parent_process": "Code.exe"
+    }
+]
