@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 13%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 11%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 220 14% 21%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 220 14% 17%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 237 100% 70%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62% 50%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 216 32% 17%;
+    --input: 216 32% 17%;
+    --ring: 217 91% 60%;
+
+    --radius: 0.5rem;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .glass-card {
+    @apply bg-opacity-20 backdrop-blur-sm bg-cyber-darker border border-cyber-blue/20;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-cyber-dark text-foreground font-mono;
+  }
+
+  .feature-card {
+    @apply relative p-6 rounded-lg glass-card transition-all duration-300 hover:bg-cyber-blue/10 hover:border-cyber-blue/50 hover:shadow-lg hover:shadow-cyber-blue/10;
+  }
+
+  .cyber-gradient {
+    @apply bg-gradient-to-r from-cyber-blue to-cyber-purple;
+  }
+
+  .cyber-gradient-text {
+    @apply bg-gradient-to-r from-cyber-blue to-cyber-purple bg-clip-text text-transparent;
+  }
+
+  .typing-container {
+    @apply overflow-hidden whitespace-nowrap border-r-4 border-cyber-blue inline-block;
+    animation: typing 5s steps(40, end) infinite, blink 1s step-end infinite;
+  }
+
+  .glow {
+    text-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+  }
+
+  .cyber-btn {
+    @apply inline-flex items-center justify-center border-2 border-cyber-blue px-6 py-2 rounded 
+    font-mono font-semibold text-sm bg-cyber-blue/10 text-white
+    hover:bg-cyber-blue/20 transition-all duration-200
+    focus:outline-none focus:ring-2 focus:ring-cyber-blue/50 shadow-lg shadow-cyber-blue/10;
+  }
+
+  .cyber-btn-primary {
+    @apply cyber-btn bg-cyber-blue hover:bg-cyber-blue/90 border-transparent text-white;
+  }
+}
+
+.aos-animate {
+  transition-property: transform, opacity;
+  transition-duration: 0.8s;
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.aos-init {
+  opacity: 0;
+}
+
+.aos-init[data-aos="fade-up"] {
+  transform: translateY(50px);
+}
+
+.aos-init[data-aos="fade-right"] {
+  transform: translateX(-50px);
+}
+
+.aos-init[data-aos="fade-left"] {
+  transform: translateX(50px);
+}
+
+.aos-animate {
+  opacity: 1;
+  transform: translateY(0) translateX(0);
+}
